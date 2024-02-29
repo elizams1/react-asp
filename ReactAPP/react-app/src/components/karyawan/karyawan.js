@@ -16,7 +16,7 @@ function KarywanPage(){
         console.log(error);
       })
   },[])
-  //new ini new
+  //perubahan
   return(
     <>
       {karyawan.map(item=>

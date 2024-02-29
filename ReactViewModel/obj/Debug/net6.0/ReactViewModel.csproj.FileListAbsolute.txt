@@ -1,0 +1,25 @@
+D:\console apps c#\ReactAPI\ReactViewModel\bin\Debug\net6.0\ReactViewModel.deps.json
+D:\console apps c#\ReactAPI\ReactViewModel\bin\Debug\net6.0\ReactViewModel.dll
+D:\console apps c#\ReactAPI\ReactViewModel\bin\Debug\net6.0\ReactViewModel.pdb
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.csproj.AssemblyReference.cache
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.AssemblyInfoInputs.cache
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.AssemblyInfo.cs
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.csproj.CoreCompileInputs.cache
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.dll
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\refint\ReactViewModel.dll
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.pdb
+D:\console apps c#\ReactAPI\ReactViewModel\obj\Debug\net6.0\ref\ReactViewModel.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\bin\Debug\net6.0\ReactViewModel.deps.json
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\bin\Debug\net6.0\ReactViewModel.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\bin\Debug\net6.0\ReactViewModel.pdb
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.AssemblyInfo.cs
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.sourcelink.json
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\refint\ReactViewModel.dll
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ReactViewModel.pdb
+C:\Users\HP\source\repos\react-and-net\ReactAPI\ReactViewModel\obj\Debug\net6.0\ref\ReactViewModel.dll

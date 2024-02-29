@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QSM+oWs80KRO7VMckcZgTeP3I7q6fq6OBk1jLGiJiLWBAVI3LQpbMEnWuhrO7NHqEcAmcRgZORbbC7Jc8pmAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\react-and-net\\ReactAPI\\ReactViewModel\\ReactViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

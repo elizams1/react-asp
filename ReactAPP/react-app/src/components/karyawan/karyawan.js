@@ -16,7 +16,7 @@ function KarywanPage(){
         console.log(error);
       })
   },[])
-
+  //new
   return(
     <>
       {karyawan.map(item=>
